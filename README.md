@@ -12,3 +12,7 @@
 initial commit of repository. Includes .ipynb files in base repository folder, 02 PNG files in the "Pictures" folder, and the input files in the "Input" folder. 
 
 ----- ratings.csv was too large to push to github. It was not included with the submission.
+
+* 04APR2022 
+
+recommit with same deliverables, ran SQL upload .ipynb to display time spent uploading. PNG screenshot submitted as well in case file does not display the output.
